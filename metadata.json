@@ -1,0 +1,22 @@
+{
+    "documentId":"unique id",
+    "documentDescription":"Some description",
+    "documentType":"pdf",
+    "documentAuthorId":"author id",
+    "uploaderId":"uploader id",
+    "tags":{
+        "tag1":{
+            "origin":"ocr",
+            "positions":[
+                {
+                    "page":1,
+                    "x":1,
+                    "y":1,
+                    "width":1,
+                    "height":1
+                }
+            ]
+        }
+     
+    }
+}
